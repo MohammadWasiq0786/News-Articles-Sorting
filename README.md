@@ -21,7 +21,7 @@ Life Cycle of implementing machine learning application.
 - Evaluate Model
 - Deploy the model
 
-### ## Dataset
+### Dataset
 The dataset that is used in this project has been taken from the Kaggle. The link is below.
 
 - [datset](https://www.kaggle.com/c/learn-ai-bbc/data)
