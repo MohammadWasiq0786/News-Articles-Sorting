@@ -55,3 +55,47 @@ python app.py
 ```
 
 ![img](https://github.com/MohammadWasiq0786/News-Articles-Sorting/blob/main/Images/NAS1.png)
+
+
+
+## Links
+
+### HLD
+```
+https://github.com/MohammadWasiq0786/News-Articles-Sorting/blob/main/Documents%20(1)/HLD%20Document.docx
+```
+
+### LLD
+```
+https://github.com/MohammadWasiq0786/News-Articles-Sorting/blob/main/Documents%20(1)/LLD%20Document.docx
+```
+
+### Architecture
+```
+https://github.com/MohammadWasiq0786/News-Articles-Sorting/blob/main/Documents%20(1)/Architecture.docx
+```
+
+### Wireframe
+```
+https://github.com/MohammadWasiq0786/News-Articles-Sorting/blob/main/Documents%20(1)/Wireframe%20Document.docx
+```
+
+### Project Code
+```
+https://github.com/MohammadWasiq0786/News-Articles-Sorting
+```
+
+### DPR
+```
+https://github.com/MohammadWasiq0786/News-Articles-Sorting/blob/main/Documents%20(1)/Detailled%20Project%20Report.pptx
+```
+
+### Demo Video
+```
+https://github.com/MohammadWasiq0786/News-Articles-Sorting/blob/main/News%20Articles%20Sorting.mp4
+```
+
+### LinkedIn Post
+```
+https://www.linkedin.com/posts/mohammadwasiq00_internshipproject-ineuron-machinelearning-activity-7078602498885730304-nWvC?utm_source=share&utm_medium=member_desktop
+````
