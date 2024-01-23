@@ -54,6 +54,8 @@ pip install -r requirements.txt
 python app.py
 ```
 
+https://github.com/MohammadWasiq0786/News-Articles-Sorting/assets/90026848/5a2408a3-04de-457e-882d-2f2f30a56656
+
 ![img](https://github.com/MohammadWasiq0786/News-Articles-Sorting/blob/main/Images/NAS1.png)
 
 
